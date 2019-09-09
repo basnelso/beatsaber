@@ -1,2 +1,2 @@
-# song-extracter
-Simple Python script that takes Beat Saber custom song zip files in downloads and extracts/moves them into custom songs folder.
+# Beat Saber Scripts
+Collection of scripts to help in beat saber modding/custom songs
